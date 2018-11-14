@@ -5,4 +5,4 @@ Visualization of Line of Sight using EQS queries &amp; procedural meshes in Unre
 
 **Integration Tutorial:** https://www.youtube.com/watch?v=mxf5NjK3AwU
 
-**This project is licensed under the Unreal Engine 4 EULA.**
+(Content in this project may only be used in Unreal Engine projects as per the Unreal Engine 4 EULA)
