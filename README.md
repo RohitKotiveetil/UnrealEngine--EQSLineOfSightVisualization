@@ -1,5 +1,5 @@
 # UnrealEngine--EQSLineOfSightVisualization
-Visualization of Line of Sight using EQS queries &amp; procedural meshes in Unreal Engine v4.20. 
+Visualization of Line of Sight using EQS queries &amp; procedural meshes in Unreal Engine v4.21. 
 
 **Preview Video:** https://www.youtube.com/watch?v=jMEQ9L2izgI
 
